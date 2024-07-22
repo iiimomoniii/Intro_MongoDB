@@ -6,3 +6,6 @@ https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/#std-label-
 
 ### Connection
 https://www.mongodb.com/docs/mongodb-shell/connect/
+
+### Start
+sudo brew services start mongodb-community@7.0
